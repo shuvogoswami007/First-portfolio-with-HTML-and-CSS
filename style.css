@@ -1,0 +1,171 @@
+body{
+    margin: 0px;
+    font-family: 'Lora', serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-highlight{
+    color: orange;
+    font-weight: 500px;
+}
+.third{
+    color: saddlebrown;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.for{
+    color: royalblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+h2{
+    font-size: 40px;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    
+}
+.single-experience{
+
+    box-shadow: 10px 10px 40px grey ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    height: 50%;
+    background-color: whitesmoke;
+
+
+}
+.more-information{
+    color: blue;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.one-third-width {
+    width: 10%;
+    
+    margin-left: 2%;
+    padding-left: 2%;
+    
+}
+.about {float: right;}
+
+.one-third-image {
+    float: left;
+}
+section.lol {margin-right: 19%;}
+
+.one-third-image {
+    margin-right: 25px;
+}
+.final{
+    text-align: center;
+}
+section.dream-area {
+    margin-bottom: 100px;
+}
+span.latest {
+    color: orange;
+}
+
+h3.final {
+    font-size: 35px;
+}
+.lol{
+    background-color: whitesmoke;
+    width:100% ;
+    height: 380px;
+}
+.about {
+    margin-right: 193px;
+}
+.last{
+    margin-top: 150px;
+    margin-left: 267px;
+    margin-right: 180px;
+}
+
+
+.alo {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.kodu {
+    margin-left: 230px;
+    margin-top: 150px;
+}
+.inquery{
+top: 1900px;
+position: absolute;
+width: 300px;
+height: 75px;
+left: 290px;
+font-weight: 900;
+font-size: 35px;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+.maro {
+    text-align: center;
+    margin-top: 50px;
+}
+ 
+
+.vai {
+    padding-left: 65%;
+    margin-top: -104px;
+}
+section.footer {
+    margin-top: -249px;
+}
+a.chat {
+    text-decoration: none;
+    color: white;
+    background: orangered;
+    font-size: 20px;
+    border-radius: 3px;
+}
+.kato{
+    color: black;
+}
+.mail{
+    color: black;
+}
+.one-third-image{
+    box-shadow: 10px 10px 40px gray;
+    background-color: whitesmoke;
+    height: 80%;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+
+
